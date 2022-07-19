@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @James-JH
-- 👀 I’m interested in Software Development
 
 <!---
 James-JH/James-JH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
