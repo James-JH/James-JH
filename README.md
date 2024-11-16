@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @James-JH
+Hello, welcome to my github page!
 
 <!---
 James-JH/James-JH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
