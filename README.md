@@ -1,4 +1,4 @@
-Hello, welcome to my github page!
+Hi, and welcome to my GitHub! I am a tech enthusiast who loves coding and creating interesting tools and programs. Though I work on a variety of projects, including data analysis and visualizations, I am curious in exploring different ways to make useful programs. Feel free to check out my work!
 
 <!---
 James-JH/James-JH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
