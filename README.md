@@ -1,7 +1,13 @@
-# James Huynh
+# Hi, I'm James 👋
 
-💻 Data, Cloud & Automation Enthusiast | Turning data into actionable insights
+I specialise in **data science** with a strong interest in **data analysis, visualization, and automation**. My projects cover **Victorian traffic data patterns**, **Australian Census population stats**, and **sales and budget data**, using tools like **Tableau**, **Power BI**, **SQL**, and **JavaScript/HTML/CSS**.  
 
-I love working on projects that combine data, cloud technologies, and automation to make processes easier and uncover meaningful insights. I enjoy exploring new tools, experimenting with different approaches, and finding creative solutions to real-world problems.  
+I enjoy transforming raw data into **actionable insights** and building **interactive dashboards** that support decision-making. I’m also passionate about **automation**, streamlining workflows, and making data processes more efficient.
 
-📍 Based in Australia
+On this GitHub, you’ll find projects showcasing:
+- **Interactive dashboards** (Power BI, Tableau, web-based visualizations)  
+- **SQL data modeling and analysis**  
+- **Web-based data visualizations** using HTML, CSS, and JavaScript  
+- **Automation pipelines** for repetitive data tasks  
+
+I aim to grow my career in **data science**, applying technical skills to solve real-world problems and deliver impactful insights.
