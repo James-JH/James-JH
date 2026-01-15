@@ -6,8 +6,6 @@ I enjoy transforming raw data into **actionable insights** and building **intera
 
 On this GitHub, you’ll find projects showcasing:
 - **Interactive dashboards** (Power BI, Tableau, web-based visualisations)  
-- **SQL data modeling and analysis**  
-- **Web-based data visualisations** using HTML, CSS, and JavaScript  
-- **Automation pipelines** for repetitive data tasks  
-
-I aim to grow my career in **data science**, applying technical skills to solve real-world problems and deliver impactful insights.
+- **SQL data modeling and analysis**   
+- **Automation pipelines** for repetitive data tasks
+- **Hobby passion projects** for fun
