@@ -8,4 +8,4 @@ On this GitHub, you’ll find projects showcasing:
 - Interactive dashboards (Power BI, Tableau, Excel, web-based visualisations)  
 - SQL data modeling and analysis   
 - Automation pipelines for repetitive data tasks
-- Hobby passion projects for fun :)
+- Hobby passion projects :)
