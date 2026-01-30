@@ -1,6 +1,6 @@
 # Hi, I'm James 👋
 
-Exploring data, analytics, and modern enterprise technology to build clear, decision-focused solutions. My projects cover Victorian traffic data patterns, Australian Census population stats, and sales and budget data.
+I enjoy exploring data, analytics, and enterprise technology, finding creative ways to make complex systems and information easier to understand. My projects cover Victorian traffic data patterns, Australian Census population stats, and sales and budget data.
 
 I enjoy transforming dirty data into actionable insights and visuals that support easy decision-making. I’m also passionate about automation, streamlining and simplifying workflows, and making data processes more efficient.
 
